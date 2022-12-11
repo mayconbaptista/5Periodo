@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 06 00:26:57 BRT 2022:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (???): instância a816c00e-0184-e578-e534-000007685328
+no diretório de banco de dados /home/maycon/5Periodo/BD2/JDBCTutorial/testdb 
+
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/maycon/5Periodo/BD2/JDBCTutorial
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-56-generic
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''

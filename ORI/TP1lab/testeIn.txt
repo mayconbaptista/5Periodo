@@ -1,0 +1,2 @@
+O bag of words ou saco de palavras e uma representação de todas as palavras
+ou termos de um texto sem repetição e removido plurais e redundâncias
