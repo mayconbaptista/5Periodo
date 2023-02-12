@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "errno.h": "c",
+        "in.h": "c",
+        "wait.h": "c",
+        "signal.h": "c",
+        "ostream": "cpp"
+    }
+}

@@ -40,5 +40,3 @@ if __name__ == '__main__':
             lista = menorPeso(doc, menor, voc)
             
             print(f'menor valor {menor} com os termos {lista}')
-
-
